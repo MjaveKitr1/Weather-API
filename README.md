@@ -1,1 +1,1 @@
-# Weather-API
+This code demonstrates how to search for a Web API, retrieve data using the requests module, store the data in JSON format, work with JSON objects, store information in a SQLite database, and display a Windows notification using the win10toast library. The code also includes instructions for setting up the required libraries and provides an overview of the project's functionality.
